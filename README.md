@@ -101,7 +101,7 @@ even more welcome!
 
 ### Linux Requirements ###
 
-These are the base requirements to build and use Google Test from a source
+ These are the base requirements to build and use Google Test from a source
 package (as described below):
 
   * GNU-compatible Make or gmake
